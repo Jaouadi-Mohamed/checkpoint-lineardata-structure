@@ -1,0 +1,11 @@
+Algorithm prob1sol1
+var
+tab:setone[3,1,7,9],
+   settwo[2,4,1,9,3];
+   sum,i:integer;
+   sum:=0
+   if(i=0;i<setonelength;i++ and i=0;i<sttwo.length;i++)
+   if(setone[i]<>settwo[i])
+   sum:=setone[i]+settwo[i]
+   end if
+   sum:=sum+1
